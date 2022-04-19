@@ -14,3 +14,9 @@ What I'm planning to learn:
 
 What I've learned:  
     - all the above
+
+UPDATE:
+    - learned to use a bit of CSS tools
+    - styled the project
+
+Note: still not content but it will stay as a first project
