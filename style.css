@@ -73,11 +73,29 @@ a:hover {
 /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
 
 .recipe-title {
+    text-align: center;
+    font-size: 48px;
+    margin: 56px 0;
+    letter-spacing: 5px;
+    color: rgb(158, 93, 62);
+    text-shadow: 0 0 12px #ffffff, 0 0 12px #ffffff;
+}
 
+.recipe-img {
+    margin: 48px 50%;
+    width: 500px;
+    height: auto;
+    border-radius: 12px;
+    box-shadow: 0 0 24px #571c00c5, 0 0 36px #571c00c5;
+    transform: translateX(-50%);
 }
 
 .tertiary {
-
+    margin-left: 5%;
+    font-size: 40px;
+    margin-top: 24px;
+    margin-bottom: 8px;
+    color:#6e2807c5;
 }
 
 .ingredient-list {
@@ -89,5 +107,5 @@ a:hover {
 }
 
 .li {
-    
+
 }
