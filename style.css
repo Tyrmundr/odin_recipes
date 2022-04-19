@@ -1,17 +1,35 @@
 * {
     font-family: 'Dancing Script', cursive;
+    margin: 0;
+    padding: 0;
 }
 
 /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
-/* Main file styles */
+/* SHARED styles */
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
+body {
+    background-color: #ffb491af;
+}
+
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+/* MAIN FILE styles */
 /*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
 
 #home-title {
-
+    letter-spacing: 3px;
+    color: #ffc5aa;
+    text-shadow: 0 0 12px #722a09e3;
+    background-color: #722a0998;
+    font-size: 80px;
+    text-align: center;
+    border-bottom: solid 3px #722a09e3;
+    padding: 42px 0;
+    margin-bottom: 36px;
 }
 
 #home-ul {
-
+    font-size: 24px;
 }
 
 .home-li {
