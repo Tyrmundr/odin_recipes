@@ -11,4 +11,5 @@ What I'm planning to learn:
     - linking up files from different folders  
     - muscle memory by writing out boilerplates and each element by hand  
 
-What I've learned:
+What I've learned:  
+    - all the above
