@@ -92,20 +92,32 @@ a:hover {
 
 .tertiary {
     margin-left: 5%;
-    font-size: 40px;
-    margin-top: 24px;
-    margin-bottom: 8px;
+    font-size: 44px;
+    margin-top: 36px;
+    margin-bottom: 20px;
     color:#6e2807c5;
 }
 
-.ingredient-list {
-
+.description, .li {
+    color: #92350aab;
+    font-weight: 700;
+    font-size: 24px;
+    letter-spacing: 2px;
 }
 
-.step-list {
-
+.description {
+    margin-left: 6%;
 }
 
 .li {
+    padding-bottom: 12px;
+}
 
+.ingredient-list, .step-list {
+    margin-left: 8%;
+    list-style: circle;
+}
+
+.step-list {
+    margin-bottom: 5%;
 }
