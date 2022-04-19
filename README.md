@@ -5,10 +5,10 @@ This little project is all about creating the "Recipes" project from TOP's funda
 
 Some of the below will be updated later.
 
-What I'm planning to learn:
-    - building a site with plain HTML
-    - using links and images
-    - linking up files from different folders
-    - muscle memory by writing out boilerplates and each element by hand
+What I'm planning to learn:  
+    - building a site with plain HTML  
+    - using links and images  
+    - linking up files from different folders  
+    - muscle memory by writing out boilerplates and each element by hand  
 
 What I've learned:
